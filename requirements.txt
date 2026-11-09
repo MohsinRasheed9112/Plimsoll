@@ -1,0 +1,9 @@
+# Harness, experiment drivers and tests (Python 3.13, as in the paper's runs).
+numpy==2.5.3
+scipy==1.18.1
+hnswlib==0.8.0
+qdrant-client==1.19.1
+psycopg[binary]==3.3.6
+pgvector
+h5py
+pytest

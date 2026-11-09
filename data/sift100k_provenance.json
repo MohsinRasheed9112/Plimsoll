@@ -1,0 +1,9 @@
+{
+ "source_file": "Implementation/e1/data/cache/sift-128-euclidean.hdf5 (ANN-Benchmarks)",
+ "source_sha256": "dd6f0a6ed6b7ebb8934680f861a33ed01ff33991eaee4fd60914d854a0ca5984",
+ "base": "train[:100000] as float32",
+ "queries": "test[:1000] as float32",
+ "base_sha256": "d54f9b5de19d74fc5825822871f5692a5b1f76fd7ba2ed7627e688162c5b4392",
+ "queries_sha256": "1c6321fd72f0cb818dc3bbb7f4dfc7b80055c0670cc717a2619c621c435fe8ef",
+ "created_utc": "2026-10-11T16:58:48+00:00"
+}

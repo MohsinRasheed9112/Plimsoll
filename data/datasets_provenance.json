@@ -1,0 +1,12 @@
+{
+ "data/sift1m_base_part0.npy": "2aea8fcd33e9260aa517f82bff544164bcbd669a7bf2932eccbf91062988b7aa",
+ "data/sift1m_base_part1.npy": "decddfc8b39ec8d9375a320b27d88699911fe4c758a698b873bf359ec5daa770",
+ "data/sift1m_base_part2.npy": "a4940e7447d50731f7661bc0c2fdd0557cbb126589cb61f1a9f8eef19cdbcb66",
+ "data/sift1m_base_part3.npy": "bfc07c3d943e2bc59a39e0fe429e7a2c1a70cc222ccb589e45759890b2b8d953",
+ "data/sift1m_queries.npy": "88e61604b7ad2efee410551fbf6fd800594f4008ac599e2f75fe5a58f569f7b9",
+ "sift_source_sha256": "dd6f0a6ed6b7ebb8934680f861a33ed01ff33991eaee4fd60914d854a0ca5984",
+ "data/fmnist_base.npy": "b4c9ef4d227514f872c39662c006b45cb682c5bc28ed567f42adb0bc542153a4",
+ "data/fmnist_queries.npy": "15be6db025eec7ed428d43f890c9e6a8f314a730b255b6f300a50eb98b8d2cde",
+ "fmnist_source_sha256": "7f24e5122b71346346686a6ea80e08d9145b9c020f9f2db4c4c799dfcfc96a07",
+ "created_utc": "2026-10-12T02:28:01+00:00"
+}
